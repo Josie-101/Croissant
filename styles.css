@@ -1,0 +1,28 @@
+body {
+background-color: navy;
+text-align: center;
+}
+
+h1, p {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+.link {
+    color: white;
+    text-decoration: white;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.croissant {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    max-width: 300px;
+}
